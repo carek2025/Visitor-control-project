@@ -1,4 +1,4 @@
-# Seminario de Complementación Práctica – S5
+# Seminario de Complementación Práctica – T1
 
 ## Descripción
 Aplicación Android para registrar visitas, con persistencia temporal durante cambios de configuración usando `onSaveInstanceState`. La interfaz incluye un `ScrollView` para desplazamiento completo y un `ListView` para mostrar las visitas.
